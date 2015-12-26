@@ -4,12 +4,12 @@ title: 위치
 permalink: /location/
 ---
 
-약도
+![약도](http://evoka.github.io/images/map.png)
 
-### More Information
+### 자가용으로 오시는 길
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### 지하철로 오시는 길
+
+
