@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wedding 
+title: 초대합니다!
 permalink: /
 ---
 
