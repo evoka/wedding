@@ -23,6 +23,14 @@ permalink: /
 
 서봉애
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
 ## 2016년 1월 30일 토요일 오후 3시 
 
 ## 대구 비앙코 웨딩 2층 아트홀
