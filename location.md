@@ -4,6 +4,10 @@ title: 오시는 길
 permalink: /location/
 ---
 
+### 네비게이션 : 대구미술관 입력
+### 주소 : 대구광역시 수성구 미술관로 40 (삼덕동 374번지) 비앙코 웨딩
+### 전화 : 053-795-1555 또는 053-795-1556
+
 ![약도](http://evoka.github.io/images/map.png)
 
 [네이버 지도에서 보기] (http://map.naver.com/?dlevel=8&pinType=site&pinId=20795669&x=128.6745585&y=35.8268146&enc=b64)
