@@ -6,7 +6,7 @@ permalink: /location/
 
 ![약도](http://evoka.github.io/images/map.png)
 
-[네이버 지도 바로가기] (http://map.naver.com/?dlevel=9&pinType=site&pinId=20795669&x=128.6745585&y=35.8268146&enc=b64)
+[네이버 지도에서 보기] (http://map.naver.com/?dlevel=8&pinType=site&pinId=20795669&x=128.6745585&y=35.8268146&enc=b64)
 
 
 ### 자가용으로 오시는 길
