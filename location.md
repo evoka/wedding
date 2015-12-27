@@ -5,7 +5,7 @@ permalink: /location/
 ---
 
 ![대구광역시 수성구 미술관로 40(삼덕동 374) 대구미술관
-부속동](http://openapi.naver.com/map/getStaticMap?version=1.0&crs=EPSG:4326&center=128.6745585,35.8268146&level=3&w=300&h=300&maptype=default&markers=128.6745585,35.8268146&key=3e5cbe20e0d019428a95ecb68cc3aac9&uri=evoka.github.io)
+부속동](http://openapi.naver.com/map/getStaticMap?version=1.0&crs=EPSG:4326&center=128.6745585,35.8268146&level=10&w=800&h=500&maptype=default&markers=128.6745585,35.8268146&key=3e5cbe20e0d019428a95ecb68cc3aac9&uri=evoka.github.io)
 
 ![약도](http://evoka.github.io/images/map.png)
 
