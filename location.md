@@ -4,10 +4,10 @@ title: 오시는 길
 permalink: /location/
 ---
 
-![대구광역시 수성구 미술관로 40(삼덕동 374) 대구미술관
-부속동](http://openapi.naver.com/map/getStaticMap?version=1.0&crs=EPSG:4326&center=128.6745585,35.8268146&level=10&w=800&h=500&maptype=default&markers=128.6745585,35.8268146&key=3e5cbe20e0d019428a95ecb68cc3aac9&uri=evoka.github.io)
-
 ![약도](http://evoka.github.io/images/map.png)
+
+[네이버 지도 바로가기] (http://map.naver.com/?dlevel=9&pinType=site&pinId=20795669&x=128.6745585&y=35.8268146&enc=b64)
+
 
 ### 자가용으로 오시는 길
 * 시외에서 진입
